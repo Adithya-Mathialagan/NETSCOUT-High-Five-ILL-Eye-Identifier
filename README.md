@@ -1,4 +1,4 @@
-ILL Eye Identifier
+# ILL Eye Identifier
 
 ## Inspiration
 Around 27.5% of Indians Suffer from vision problems. It's a serious issue and will be more common in upcoming days due to excessive screen time in electronic gadgets.
